@@ -9,7 +9,7 @@ Run go's deadcode checker.
 See [action.yml](action.yml)
 
 ## Basic
-
+<!-- x-release-please-start-version -->
 ```yaml
 name: Go deadcode check
 on: [ push ]
@@ -26,6 +26,7 @@ jobs:
           godeadcode-version: 'latest'
           packages: './...'
 ```
+<!-- x-release-please-end-->
 
 ### Inputs
 
