@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/opzkit/godeadcode-action/compare/v1.0.1...v1.0.2) (2026-03-11)
+
+
+### Bug Fixes
+
+* add checkout step before moving major version tag ([#110](https://github.com/opzkit/godeadcode-action/issues/110)) ([05a2829](https://github.com/opzkit/godeadcode-action/commit/05a28291421687c1ffcc5223e11d2566317f2508))
+
 ## [1.0.1](https://github.com/opzkit/godeadcode-action/compare/v1.0.0...v1.0.1) (2026-03-11)
 
 
