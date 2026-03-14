@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.3](https://github.com/opzkit/godeadcode-action/compare/v1.0.2...v1.0.3) (2026-03-14)
+
+
+### Miscellaneous Chores
+
+* **deps:** update actions/create-github-app-token action to v3 ([#113](https://github.com/opzkit/godeadcode-action/issues/113)) ([aa7678a](https://github.com/opzkit/godeadcode-action/commit/aa7678a7511ce631048c17e09db636c95952a6dd))
+* **deps:** update actions/create-github-app-token digest to fee1f7d ([#112](https://github.com/opzkit/godeadcode-action/issues/112)) ([6ba1c42](https://github.com/opzkit/godeadcode-action/commit/6ba1c4227b20df6c314b3a47c8c1e0ca10cd2ff5))
+
 ## [1.0.2](https://github.com/opzkit/godeadcode-action/compare/v1.0.1...v1.0.2) (2026-03-11)
 
 
