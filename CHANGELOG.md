@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.3](https://github.com/opzkit/godeadcode-action/compare/v1.0.2...v1.0.3) (2026-03-30)
+
+
+### Miscellaneous Chores
+
+* **deps:** update actions/create-github-app-token action to v3 ([#113](https://github.com/opzkit/godeadcode-action/issues/113)) ([aa7678a](https://github.com/opzkit/godeadcode-action/commit/aa7678a7511ce631048c17e09db636c95952a6dd))
+* **deps:** update actions/create-github-app-token digest to fee1f7d ([#112](https://github.com/opzkit/godeadcode-action/issues/112)) ([6ba1c42](https://github.com/opzkit/godeadcode-action/commit/6ba1c4227b20df6c314b3a47c8c1e0ca10cd2ff5))
+* **deps:** update actions/setup-go digest to 4a36011 ([#118](https://github.com/opzkit/godeadcode-action/issues/118)) ([9a1448f](https://github.com/opzkit/godeadcode-action/commit/9a1448f1091f0aadfbeb7748242692687b2124a6))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.76.2 ([#115](https://github.com/opzkit/godeadcode-action/issues/115)) ([042960c](https://github.com/opzkit/godeadcode-action/commit/042960c468b19e912656fc087c65ab33d62f77b6))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.86.0 ([#116](https://github.com/opzkit/godeadcode-action/issues/116)) ([3c09337](https://github.com/opzkit/godeadcode-action/commit/3c093371689bff2fd0f2468793dadb7a0462b780))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.99.1 ([#117](https://github.com/opzkit/godeadcode-action/issues/117)) ([c870095](https://github.com/opzkit/godeadcode-action/commit/c87009522347296f6fc005588c6d635e9d4d34f4))
+
 ## [1.0.2](https://github.com/opzkit/godeadcode-action/compare/v1.0.1...v1.0.2) (2026-03-11)
 
 
