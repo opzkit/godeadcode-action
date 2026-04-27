@@ -19,7 +19,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: check for deadcode
-        uses: opzkit/godeadcode-action@v1.0.2
+        uses: opzkit/godeadcode-action@v1.0.3
         # optional
         with:
           go-version: '1.19'
