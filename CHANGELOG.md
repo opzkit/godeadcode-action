@@ -1,5 +1,44 @@
 # Changelog
 
+## [1.0.3](https://github.com/opzkit/godeadcode-action/compare/v1.0.2...v1.0.3) (2026-07-23)
+
+
+### Miscellaneous Chores
+
+* **deps:** update actions/checkout action to v6.0.3 ([#133](https://github.com/opzkit/godeadcode-action/issues/133)) ([2473801](https://github.com/opzkit/godeadcode-action/commit/24738013309c82d61ac4b7a1a7e950f82648344a))
+* **deps:** update actions/checkout action to v7 ([#136](https://github.com/opzkit/godeadcode-action/issues/136)) ([9f0b741](https://github.com/opzkit/godeadcode-action/commit/9f0b7410521d9c957419d9d99412af8531f08902))
+* **deps:** update actions/checkout digest to 3d3c42e ([#144](https://github.com/opzkit/godeadcode-action/issues/144)) ([b629495](https://github.com/opzkit/godeadcode-action/commit/b629495e47614acf7f33bb69fd78bf618014dc5c))
+* **deps:** update actions/checkout digest to df4cb1c ([#132](https://github.com/opzkit/godeadcode-action/issues/132)) ([b10014e](https://github.com/opzkit/godeadcode-action/commit/b10014e1acd212fa119b3a28e7dd1e6f0b433ffa))
+* **deps:** update actions/create-github-app-token action to v3 ([#113](https://github.com/opzkit/godeadcode-action/issues/113)) ([aa7678a](https://github.com/opzkit/godeadcode-action/commit/aa7678a7511ce631048c17e09db636c95952a6dd))
+* **deps:** update actions/create-github-app-token digest to 1b10c78 ([#121](https://github.com/opzkit/godeadcode-action/issues/121)) ([db7c549](https://github.com/opzkit/godeadcode-action/commit/db7c549fc280386d5a87227bf0cb458627ad59b9))
+* **deps:** update actions/create-github-app-token digest to 7bd0371 ([#120](https://github.com/opzkit/godeadcode-action/issues/120)) ([745f7c4](https://github.com/opzkit/godeadcode-action/commit/745f7c4608dc4533714b8af034723ccfa62689f0))
+* **deps:** update actions/create-github-app-token digest to bcd2ba4 ([#130](https://github.com/opzkit/godeadcode-action/issues/130)) ([7a97ffa](https://github.com/opzkit/godeadcode-action/commit/7a97ffa61bfbec0df20436e7932b3d4ee41f39e9))
+* **deps:** update actions/create-github-app-token digest to fee1f7d ([#112](https://github.com/opzkit/godeadcode-action/issues/112)) ([6ba1c42](https://github.com/opzkit/godeadcode-action/commit/6ba1c4227b20df6c314b3a47c8c1e0ca10cd2ff5))
+* **deps:** update actions/setup-go action to v7 ([#143](https://github.com/opzkit/godeadcode-action/issues/143)) ([bc3f680](https://github.com/opzkit/godeadcode-action/commit/bc3f680da821bf448d8f7c717082c8e41f7e00df))
+* **deps:** update actions/setup-go digest to 4a36011 ([#118](https://github.com/opzkit/godeadcode-action/issues/118)) ([9a1448f](https://github.com/opzkit/godeadcode-action/commit/9a1448f1091f0aadfbeb7748242692687b2124a6))
+* **deps:** update actions/setup-go digest to 924ae3a ([#138](https://github.com/opzkit/godeadcode-action/issues/138)) ([ea70afd](https://github.com/opzkit/godeadcode-action/commit/ea70afd9e2614254eb0f74285b2bfcb02f631b13))
+* **deps:** update actions/setup-python action to v6.3.0 ([#139](https://github.com/opzkit/godeadcode-action/issues/139)) ([e119fb0](https://github.com/opzkit/godeadcode-action/commit/e119fb00a8105814de613c8f31d261d88018a819))
+* **deps:** update actions/setup-python action to v7 ([#145](https://github.com/opzkit/godeadcode-action/issues/145)) ([7ee5c66](https://github.com/opzkit/godeadcode-action/commit/7ee5c66368c7b5bc21ddfd53d238b75ee273a797))
+* **deps:** update googleapis/release-please-action action to v5 ([#125](https://github.com/opzkit/godeadcode-action/issues/125)) ([df69cc8](https://github.com/opzkit/godeadcode-action/commit/df69cc8a38a052d43b4501e0ef26bfb2712efec4))
+* **deps:** update googleapis/release-please-action digest to 5c625bf ([#123](https://github.com/opzkit/godeadcode-action/issues/123)) ([e995ea2](https://github.com/opzkit/godeadcode-action/commit/e995ea2a2fe9c7576d4ddbe2229bb13d3be0e284))
+* **deps:** update pre-commit hook alessandrojcm/commitlint-pre-commit-hook to v9.25.0 ([#127](https://github.com/opzkit/godeadcode-action/issues/127)) ([47e5aa2](https://github.com/opzkit/godeadcode-action/commit/47e5aa28777880fa6232da6feff6cafd88063d0a))
+* **deps:** update pre-commit hook alessandrojcm/commitlint-pre-commit-hook to v9.26.0 ([#140](https://github.com/opzkit/godeadcode-action/issues/140)) ([37847a9](https://github.com/opzkit/godeadcode-action/commit/37847a90a29684c6863aa00b8066cab56a46eb56))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.104.4 ([#119](https://github.com/opzkit/godeadcode-action/issues/119)) ([8b3226f](https://github.com/opzkit/godeadcode-action/commit/8b3226f1df45bc68696c9a8cf9a455addf370f89))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.111.0 ([#122](https://github.com/opzkit/godeadcode-action/issues/122)) ([42a9fbe](https://github.com/opzkit/godeadcode-action/commit/42a9fbe37d96075c08db2c4105e6be908b25e78f))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.126.0 ([#124](https://github.com/opzkit/godeadcode-action/issues/124)) ([a9df029](https://github.com/opzkit/godeadcode-action/commit/a9df029d9c2cfb99d5c2e51e2bee8074ee5647aa))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.140.0 ([#126](https://github.com/opzkit/godeadcode-action/issues/126)) ([674e3cc](https://github.com/opzkit/godeadcode-action/commit/674e3ccc314e793fcb839800a50a1748356e23f2))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.141.2 ([#128](https://github.com/opzkit/godeadcode-action/issues/128)) ([d559eee](https://github.com/opzkit/godeadcode-action/commit/d559eeee83f3d4d026e049c6a39fef88b7a319ca))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.150.0 ([#129](https://github.com/opzkit/godeadcode-action/issues/129)) ([f9d4fcb](https://github.com/opzkit/godeadcode-action/commit/f9d4fcbb6f2c9c74765d7774ff4b48099bdb5d8d))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.201.3 ([#131](https://github.com/opzkit/godeadcode-action/issues/131)) ([0c1952d](https://github.com/opzkit/godeadcode-action/commit/0c1952d8611f5eba74ad1ab5541cb3a46c57e0e5))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.212.4 ([#134](https://github.com/opzkit/godeadcode-action/issues/134)) ([959e867](https://github.com/opzkit/godeadcode-action/commit/959e867120abd58e56d6ba6420d31b75e1b2321e))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.218.0 ([#135](https://github.com/opzkit/godeadcode-action/issues/135)) ([2fb70a7](https://github.com/opzkit/godeadcode-action/commit/2fb70a7334b942f649d4c5d343672e03f5eb88c3))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.227.0 ([#137](https://github.com/opzkit/godeadcode-action/issues/137)) ([d0a2975](https://github.com/opzkit/godeadcode-action/commit/d0a2975316b9e48066f622faadce5921701a3048))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.243.2 ([#141](https://github.com/opzkit/godeadcode-action/issues/141)) ([f0eaa62](https://github.com/opzkit/godeadcode-action/commit/f0eaa62846765bbf952a8cedeb29ccc0fddc0a20))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.251.0 ([#142](https://github.com/opzkit/godeadcode-action/issues/142)) ([3641546](https://github.com/opzkit/godeadcode-action/commit/3641546944f422833c6f17a5aea0d450f607f22f))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.76.2 ([#115](https://github.com/opzkit/godeadcode-action/issues/115)) ([042960c](https://github.com/opzkit/godeadcode-action/commit/042960c468b19e912656fc087c65ab33d62f77b6))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.86.0 ([#116](https://github.com/opzkit/godeadcode-action/issues/116)) ([3c09337](https://github.com/opzkit/godeadcode-action/commit/3c093371689bff2fd0f2468793dadb7a0462b780))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.99.1 ([#117](https://github.com/opzkit/godeadcode-action/issues/117)) ([c870095](https://github.com/opzkit/godeadcode-action/commit/c87009522347296f6fc005588c6d635e9d4d34f4))
+
 ## [1.0.2](https://github.com/opzkit/godeadcode-action/compare/v1.0.1...v1.0.2) (2026-03-11)
 
 
